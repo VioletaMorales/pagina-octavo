@@ -32,3 +32,34 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.titulo3{
+    font-size: 80px;
+    color: rgb(178, 84, 255);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.inicio{
+    width: 800px;
+    height: 800px;
+    background-image: url("inicio.jpg.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+
+}
+
+.biolo1{
+    width: 800px;
+    height: 600px;
+    background-image: url("biolo1.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.mapabiolo{
+    width: 800px;
+    height: 700px;
+    background-image: url("mapamentalbiolo.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
