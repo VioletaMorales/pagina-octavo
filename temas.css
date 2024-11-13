@@ -63,3 +63,9 @@
    font-family: Georgia, 'Times New Roman', Times, serif;
    color: rgb(55, 0, 255);
 }
+
+.inicio{
+    width: 100px;
+    height: 100px;
+    background-image: url("inicio.jpg.jpg");
+}
