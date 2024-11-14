@@ -63,3 +63,49 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     margin: 90px;
 }
+
+.titulo4{
+    font-size: 50px;
+    color: rgb(178, 84, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.enlace1{
+    width: 700px;
+    height: 400px;
+    background-image: url("enlace1.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.enlace2{
+    width: 700px;
+    height: 400px;
+    background-image: url("enlace2.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.enlace3{
+    width: 700px;
+    height: 550px;
+    background-image: url("enlace3.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.mapaqui{
+    width: 800px;
+    height: 600px;
+    background-image: url("mapamentalqui.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.funcion1{
+    width: 1000px;
+    height: 550px;
+    background-image: url("funcion1.jpg.png");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
