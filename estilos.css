@@ -103,9 +103,90 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .funcion1{
-    width: 1000px;
-    height: 550px;
-    background-image: url("funcion1.jpg.png");
+    width: 600px;
+    height: 200px;
+    background-image: url("funcion1.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.funcion2{
+    width: 600px;
+    height: 350px;
+    background-image: url("funcion2.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.funcion3{
+    width: 600px;
+    height: 300px;
+    background-image: url("funcion3.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.funcion4{
+    width: 600px;
+    height: 250px;
+    background-image: url("funcion4.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.funcion5{
+    width: 600px;
+    height: 300px;
+    background-image: url("funcion5.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.contacto1{
+    width: 600px;
+    height: 600px;
+    background-image: url("contacto1.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+
+}
+
+.regla1{
+    width: 600px;
+    height: 250px;
+    background-image: url("regla1.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.regla2{
+    width: 600px;
+    height: 250px;
+    background-image: url("regla2.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.regla3{
+    width: 600px;
+    height: 250px;
+    background-image: url("regla3.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.regla4{
+    width: 600px;
+    height: 300px;
+    background-image: url("regla4.jpg");
+    background-repeat: no-repeat;
+    margin: 90px;
+}
+
+.regla5{
+    width: 600px;
+    height: 300px;
+    background-image: url("regla5.jpg");
     background-repeat: no-repeat;
     margin: 90px;
 }
