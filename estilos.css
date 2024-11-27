@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url("fondo.jpg.jpg");
+    background-image: url("fondo3.jpg.jpg");
    
 
 }
@@ -343,7 +343,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
 }
 
-
+.corazon {height: 300px;
+width: 300px;
+background-image: url("corazon.jpg");
+background-repeat: no-repeat;
+}
  
 
 
