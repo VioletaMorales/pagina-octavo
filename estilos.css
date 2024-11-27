@@ -336,6 +336,12 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
 }
 
+.suma{
+    height: 450px;
+    width: 800px;
+    background-image: url("suma.jpg");
+    background-repeat: no-repeat;
+}
 
 
  
